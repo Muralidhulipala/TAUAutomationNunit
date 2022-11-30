@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9du3OcRipnjVMBanDq8SJ1v7MS9YX6/lo8ZqNIAAGZyFiUDLxpL5NckDe2A6xP8r3YN7/z9WBcf8HbcN0OeQ8g==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Mural\\OneDrive\\Documents\\TestautomationU\\C#Scripting\\Royale\\Royale.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mural\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Mural\\.nuget\\packages\\selenium.support\\4.6.0\\selenium.support.4.6.0.nupkg.sha512",
+    "C:\\Users\\Mural\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
